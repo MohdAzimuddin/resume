@@ -4,7 +4,7 @@ Welcome to my resume! I am a passionate and motivated Frontend Developer eager t
 
 ## 📄 Resume
 
-You can view and download my resume from the following link:
+You can download and view my resume from the following link:
 
 - [Download Resume (PDF)](https://github.com/MohdAzimuddin/resume/raw/main/Mohd_Azimuddin__Frontend_resume.pdf)
 
